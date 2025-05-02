@@ -2,7 +2,6 @@ import { Provider } from "react-redux";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { CssBaseline } from "@mui/material";
 import { ToastContainer } from "react-toastify";
-//import "react-toastify/dist/ReactToastify.css";
 import { store } from "./store";
 import Home from "./pages/home";
 import NotFound from "./pages/notfound";
